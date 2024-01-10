@@ -2,12 +2,9 @@
   
 #### 💻 Currently Full stack software engineer (3 years now)
 
-- 👷 Past experiences as engineer in other fields (mainly industrial machines ⚙️ and buildings 🏛️)  
-- 📚 Self taught in computer science at Open Source Society University 
-  <a href="https://github.com/ossu/computer-science">
-	  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>    
-- 🧰 Grauated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in digital fabrication of electronic prototipes (maker enthusiast)     
+- 👷 Past experiences as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
+- 📚 Self taught in computer science with [Open Source Society University](https://github.com/ossu/computer-science)     
+- 🧰 Grauated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototipes (maker enthusiast)     
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
 <!--
