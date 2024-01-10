@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋 this is Pablo
+  
+#### 💻 Currently Full stack software engineer (3 years now)
+
+- 👷 Past experiences as engineer in other fields (mainly industrial machines ⚙️ and buildings 🏛️)  
+- 📚 Self taught in computer science at Open Source Society University 
+  <a href="https://github.com/ossu/computer-science">
+	  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>    
+- 🧰 Grauated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in digital fabrication of electronic prototipes (maker enthusiast)     
+- 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
 <!--
 **pcolt/pcolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
