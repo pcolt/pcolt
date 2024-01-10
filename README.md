@@ -3,7 +3,7 @@
 #### 💻 Full stack software engineer (3 years now)
 
 - 👷 Past experiences as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
-- 📚 Self taught in computer science with [Open Source Society University](https://github.com/ossu/computer-science)     
+- 📚 Self taught in Computer Science with [Open Source Society University](https://github.com/ossu/computer-science)     
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
