@@ -13,7 +13,9 @@
 - 🤔 Do you want to help me or just study or have a chat with me? That's cool! I am right now into Typescript, but I also want deep my knowledge on Redis, MongoDb, NextJs... Well, there are plenty of awesome technologies and areas to study and try out there, and do it together is funnier, right?
 
 #### 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/pa-co-es/)
+- [E-mail](mailto:pcoltinfo@fastmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/pa-co-es/)  
+
 
 <!--
 **pcolt/pcolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
