@@ -8,7 +8,7 @@
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
 #### 🏗️ Currently doing
-- 🌱 I’m currently developing a coupled [Express-React single page app](https://github.com/pcolt/react-scraper) and a [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. I am doing this as a kind of final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/) where I am learning all the best practices of modern full-stack development in the Javascript eco-system.
+- 🌱 I’m currently developing a coupled [Express-React single page app](https://github.com/pcolt/react-scraper) and a [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. This is my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/).
 - 👯 I’m looking to collaborate on open source projects, free-lance projects or full-time jobs.
 - 🤔 Do you want to help me or just study or have a chat with me? That's cool! I am right now into Typescript, but I also want deep my knowledge on Redis, MongoDb, NextJs... Well, there are plenty of awesome technologies and areas to study and try out there, and do it together is funnier, right?
 
