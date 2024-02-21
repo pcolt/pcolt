@@ -2,11 +2,16 @@
   
 #### 🙋‍♂️ Who I am
 
-- 💻 Full stack and data engineer (3 years now), based between Trieste, Milan, Barcelona and open to relocate
+- 💻 Full stack and data engineer (3 years now)
 - 👷 Also past experience as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
 - 📚 Self taught in Computer Science with [Open Source Society University](https://github.com/ossu/computer-science)     
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
+- 💚 I like to relax myself by being in contact with nature or spending time with people I care
+
+#### Where I am
+
+- 🏡 currently based between Trieste, Milan and Barcelona
 
 #### 🏗️ Currently doing
 - 🌱 I'm currently starting a new project with an Arduino + Raspberry Pi producing and storing data from a sensor into a database, then a single-page app will consume and display the data.
