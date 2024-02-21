@@ -9,15 +9,15 @@
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 - 💚 I like to relax myself by being in contact with nature or spending time with people I care
 
-#### Where I am
-
-- 🏡 currently based between Trieste, Milan and Barcelona
-
 #### 🏗️ Currently doing
 - 🌱 I'm currently starting a new project with an Arduino + Raspberry Pi producing and storing data from a sensor into a database, then a single-page app will consume and display the data.
 - 🌲 I have just completed a Express-React [single page app](https://github.com/pcolt/react-scraper) and a [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. This is my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/). The idea is to develop further the project into a customizable platform where external users can run scrapers and download the results.
 - 👯 I’m looking to collaborate on open source projects, free-lance projects or full-time jobs.
 - 🤔 Do you want to help me or just study or have a chat with me? That's cool! Please check my contacts below.
+
+#### Where I am
+
+- 🏡 currently based between Trieste, Milan and Barcelona
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
