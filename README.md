@@ -7,7 +7,7 @@
 - 📚 Self taught in Computer Science with [Open Source Society University](https://github.com/ossu/computer-science)     
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
-- 💚 I like to relax myself by being in contact with nature or spending time with people I care
+- 💚 I like to relax myself by being in contact with nature or spending time with people I care about
 
 #### 🏗️ Currently doing
 - 🌱 I'm currently starting a new project with an Arduino + Raspberry Pi producing and storing data from a sensor into a database, then a single-page app will consume and display the data.
