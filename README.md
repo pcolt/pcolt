@@ -18,9 +18,9 @@
 - 👯 I’m looking to collaborate on open source projects, free-lance projects or full-time jobs.
 - 🤔 Do you want to help me or just study or have a chat with me? That's cool! Please check my contacts below.
 
-#### Where I am
+#### 🏡 Where I am
 
-- 🏡 currently based between Trieste, Pavia (close to Milan) and Barcelona
+- 🚅 currently based between Trieste, Pavia (near Milan) and Barcelona
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
