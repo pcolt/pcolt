@@ -10,7 +10,7 @@
 
 #### 🔋 How I recharge
 
-- 💚 Love to relax by being in contact with nature, reading, doing sports and spending time with people I care
+- 💚 Love to relax by being in contact with nature, doing exercise, reading and spending time with people I care
 
 #### 🏗️ Currently doing
 - 🌱 I have just completed [a new project](https://github.com/pcolt/iots-full-stack) with an Arduino + Raspberry Pi producing and storing data from a sensor into a InfluxDB database, then a single-page app consumes and displays the data.
@@ -20,7 +20,7 @@
 
 #### Where I am
 
-- 🏡 currently based between Trieste, Milan and Barcelona
+- 🏡 currently based between Trieste, Pavia (close to Milan) and Barcelona
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
