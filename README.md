@@ -8,20 +8,20 @@
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
-💚 Love to relax by being in contact with nature, doing exercise, reading and spending time with people I care
+💚 Love to relax by being in contact with nature, doing exercise, reading and spending time with people I care about
 
 #### 🏗️ Currently doing
 - 🌱 I have just completed [a new project](https://github.com/pcolt/iots-full-stack) with an Arduino + Raspberry Pi producing and storing data from a sensor into a InfluxDB database, then a single-page app consumes and displays the data.
 - 🌲 I have recently completed a Express-React [single page app](https://github.com/pcolt/react-scraper) and a [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. This is my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/). The idea is to develop further the project into a customizable platform where external users can run scrapers and download the results.
 - 👯 I’m looking to collaborate on open source projects, free-lance projects or full-time jobs.
    
-🤔 Do you want to help me or just study or have a chat with me? That's cool! Please check my contacts below.
+🤔 Do you want to get in touch? That's cool! Please check my contacts below.
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/pa-co-es/)
 
-🏡 Currently based between Trieste, Pavia (near Milan) and Barcelona
+🏡 Currently based between Trieste, Pavia (Milan) and Barcelona
 
 <!--
 #### 🔋 How I recharge
