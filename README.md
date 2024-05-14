@@ -10,16 +10,14 @@
 
 💚 Love to relax by being in contact with nature, doing exercise, reading and spending time with people I care about
 
-#### 🏗️ Currently doing
-- 🌱 I have just completed [a new project](https://github.com/pcolt/iots-full-stack) with an Arduino + Raspberry Pi producing and storing data from a sensor into a InfluxDB database, then a single-page app consumes and displays the data.
-- 🌲 I have recently completed a Express-React [single page app](https://github.com/pcolt/react-scraper) and a [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. This is my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/). The idea is to develop further the project into a customizable platform where external users can run scrapers and download the results.
-- 👯 I’m looking to collaborate on open source projects, free-lance projects or full-time jobs.
+#### 🏗️ Personal projects
+- 🌱 [IoTs full-stack project](https://github.com/pcolt/iots-full-stack) with an Arduino + Raspberry Pi producing and storing data from a sensor into a InfluxDB database, then a single-page app consumes and displays the data.
+- 🌲 Express-React [Single page app](https://github.com/pcolt/react-scraper) + NodeJs [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. It is also my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/). The idea was to develop further the project into a customizable platform where external users can run scrapers and download the results.
    
 🤔 Do you want to get in touch? That's cool! Please check my contacts below.
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/pa-co-es/)
 
 🏡 Currently based between Trieste, Pavia (Milan) and Barcelona
 
