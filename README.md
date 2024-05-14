@@ -13,8 +13,6 @@
 #### 🏗️ Personal projects
 - 🌱 [IoTs full-stack project](https://github.com/pcolt/iots-full-stack) with an Arduino + Raspberry Pi producing and storing data from a sensor into a InfluxDB database, then a single-page app consumes and displays the data.
 - 🌲 Express-React [Single page app](https://github.com/pcolt/react-scraper) + NodeJs [micro-service](https://github.com/pcolt/playwright-scraper) which are displaying repositories scraped from Git-Hub by topic. It is also my final project for the Helsinki University course [Open Full Stack](https://fullstackopen.com/en/). The idea was to develop further the project into a customizable platform where external users can run scrapers and download the results.
-   
-🤔 Do you want to get in touch? That's cool! Please check my contacts below.
 
 #### 📫 How to reach me
 - [E-mail](mailto:pcoltinfo@fastmail.com)  
@@ -22,6 +20,8 @@
 🏡 Currently based between Trieste, Pavia (Milan) and Barcelona
 
 <!--
+🤔 Do you want to get in touch? That's cool! Please check my contacts below.
+
 #### 🔋 How I recharge
 #### 🏡 Where I am
 
