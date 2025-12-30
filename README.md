@@ -2,7 +2,7 @@
   
 #### 🙋‍♂️ Who I am
 
-- 💻 Full-stack and data developer (4 years now)
+- 💻 Full-stack and data developer (5 years now)
 - 👷 Also past experience as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
 - 📚 Self taught in Computer Science with [Open Source Society University](https://github.com/ossu/computer-science)     
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
