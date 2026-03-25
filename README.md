@@ -1,6 +1,4 @@
-### Hello 👋 this is Pablo
-  
-#### 🙋‍♂️ Who I am
+### Hello 👋 this is Pablo:
 
 - 💻 Full-stack and data developer. Currently working at [Dualistic](https://www.dualistic.it/) and loving it.
 - 👷 Also past experience as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
@@ -9,6 +7,8 @@
 - 👨‍🎓 Holding Master degree in Building Engineering and Architecture from University of Pavia
 
 <!--
+#### 🙋‍♂️ Who I am
+
 💚 Love to relax by being in contact with nature, doing exercise, reading and spending time with people I care about
 
 #### 🏗️ Personal projects
