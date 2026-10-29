@@ -1,6 +1,6 @@
 ### Hello 👋 this is Pablo:
 
-- 💻 Full-stack and data developer. Currently working at [Dualistic](https://www.dualistic.it/) and loving it.
+- 💻 Software developer (+DevOps). Currently working at [Dualistic](https://www.dualistic.it/).
 - 👷 Also past experience as engineer in other fields (industrial machines ⚙️ and buildings 🏛️)  
 - 📚 Self taught in Computer Science with [Open Source Society University](https://github.com/ossu/computer-science)     
 - 🧰 Graduated at [Fab Academy](http://archive.fabacademy.org/fabacademy2017/opendot/students/103/index.html) in design, fabrication and coding of electronic prototypes (maker enthusiast)     
